@@ -6,7 +6,6 @@
 The code challenge is and will always be judged using the following criteria:
   - A Correct fork, branch and pull request
   - Using the GitHub Pull Request Time Stamp and correct code quality & structure, the first developer whose code runs successfully wins
-  - Other developers who submit successfully MAY also get rewarded with secondary items
   - Code quality and structure will be evaluated
   - The order for pull requests will be followed, first come first win basis!
   - Do not share any code that you cannot opensource on the Git Repository as its open source and Africa's Talking will not be liable for any breach of intellectual property (if any) once shared on the platform.
