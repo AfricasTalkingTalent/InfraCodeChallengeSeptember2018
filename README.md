@@ -56,13 +56,6 @@ which correspond to the functions above. Valid arguments are 0-255.
 When the program is invoked, it should send 3 bytes to the server on port 24240. The three bytes are the byte representing the function, and the two arguments to the function. The program should read one byte from the server, print it, print a newline character, and exit.
 
 
-### Task Workflow:
-1. User logs in or signs up for the application
-2. User is able to create a list of contacts saving their name and phone numbers
-3. The user is able to create a message and select a list of contacts to send SMSs to
-4. Once they hit send, the messages ought to be sent to the list of contacts specified
-5. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/)
-
 # Working on the Code Challenge
 1.Fork the code challenge repository provided.
 
@@ -71,7 +64,7 @@ When the program is invoked, it should send 3 bytes to the server on port 24240.
 >Pull all changes, make sure your repository is up to date
 
 ```sh
-$ cd DjangoGirlsCodeChallenge 
+$ cd InfraCodeChallengeSeptember2018
 $ git pull origin master
 ```
 
@@ -99,27 +92,16 @@ $ git push origin -u 25472XXXXXXX
 
 4.Commit the changes to your fork.
 
-5.Make a pull request to the DjangoGirlsCodeChallenge 
+5.Make a pull request to the InfraCodeChallengeSeptember2018 
 Repo.
 
 ### Additional:
-1. See the online version of the code challenge [here](http://atdevoutreach.viewdocs.io/DjangoGirlsCodeChallenge/DjangoGirlsCodeChallenge/) to get acquainted.
+1. See the online version of the code challenge [here](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/InfraCodeChallengeSeptember2018/) to get acquainted.
 
-2.  Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/DjangoGirlsCodeChallenge/DjangoGirlsCodeChallengeSteps/)
-
-## Resources
-You can use the following resources to get you started on your way:
-* [Starting on the Sandbox and Simulator](http://help.africastalking.com/website/how-to-get-started-on-the-africas-talking-sand-box)
-* [Africas Talking's Python SDK documentation on GitHub](https://github.com/AfricasTalkingLtd/africastalking-python)
-* [SMS Sending Documentation](http://docs.africastalking.com/sms/sending)
-* [SMS Receiving Documentation](http://docs.africastalking.com/sms/callback)
-* [Other Help articles](http://help.africastalking.com/sms)
-- More on [Logging in, Signing up/Registration, Verifying/Activating your account, Managing Teams and applications](http://help.africastalking.com/website)
-- Videos on getting started [on the Africa's Talking Sandbox](https://www.dropbox.com/sh/qq086503d5zaq7l/AADEo-oazNF_PgYIPRjPpeCua?dl=0)
-
+2.  Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/InfraCodeChallengeSeptember2018Steps/)
 
 ## About Africa's Talking Code Challenges
-Please read the overview for all code challenges [here.](http://atdevoutreach.viewdocs.io/DjangoGirlsCodeChallenge/)
+Please read the overview for all code challenges [here.](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/)
 
-## Get Support on the Africa's Talking Slack
-In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
+## Get Support from Africa's Talking
+In case you have any questions, reach out [Roina Ochieng](rochieng@africastalking.com) or [Anthony Kiplimo](anthony.kiplimo@africastalking.com)
