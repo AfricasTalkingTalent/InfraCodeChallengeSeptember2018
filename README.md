@@ -40,13 +40,13 @@ The program shall respond with one byte, the result of applying the arguments to
 
 Create a program that takes three command-line arguments. The program will be invoked in the command-line as:
 
-```
+```sh
 >>> ./prog function arg1 arg2
 ```
 
 For example:
 
-```
+```sh
 >>> ./prog add 6 4
 ```
 
