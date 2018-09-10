@@ -19,7 +19,7 @@ You can participate on as many challenges as you wish:
   - Successive interviews for projects MAY be run to satisfy participating Africa's Talking Partners
 
 ## Code Challenge Bounty:
-  - A chance to work with some of the most brilliant minds in Africa
+  - A chance to work with some of the most brilliant minds in the world!
 
 ## Task
 In this code challenge you will be required to build a toy network protocol with a client/server architecture:
@@ -94,13 +94,6 @@ $ git push origin -u 25472XXXXXXX
 5.Make a pull request to the InfraCodeChallengeSeptember2018 
 Repo.
 
-### Additional:
-1. See the online version of the code challenge [here](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/InfraCodeChallengeSeptember2018/) to get acquainted.
-
-2.  Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/InfraCodeChallengeSeptember2018Steps/)
-
-## About Africa's Talking Code Challenges
-Please read the overview for all code challenges [here.](http://atdevoutreach.viewdocs.io/InfraCodeChallengeSeptember2018/)
 
 ## Get Support from Africa's Talking
 In case you have any questions, reach out [Roina Ochieng](rochieng@africastalking.com) or [Anthony Kiplimo](anthony.kiplimo@africastalking.com)
